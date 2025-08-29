@@ -38,7 +38,7 @@ Use case diagrams show the interactions between actors and the system.
 They help stakeholders visualize how users interact with the booking management system.
 
 Use Case Diagram
-   [alx-booking-uc.png]
+![Use Case Diagram](.alx-booking-uc.png)
 Acceptance Criteria
 Acceptance criteria define the conditions that a feature must satisfy to be accepted by stakeholders.
 
